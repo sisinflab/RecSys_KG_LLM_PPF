@@ -4,16 +4,6 @@ Companion repository for the paper **"From Side Information and Knowledge Graphs
 
 This repo organizes the attached project materials into a GitHub-ready structure: the paper PDF, a machine-readable paper corpus, extracted notes, a timeline of the field, and a forward-looking agenda for hybrid LLM+KG recommender systems.
 
-## What this repository contains
-
-- **paper/** — the paper PDF plus a short paper summary.
-- **docs/** — narrative companion documents that explain the historical arc, recurring design patterns, research questions, and the 2026–2030 agenda.
-- **data/** — CSV exports and BibTeX generated from the literature spreadsheet.
-- **notes/** — markdown conversions of the attached working notes and future-prediction document.
-- **source_materials/** — the original source files used to build this companion repo.
-- **papers/** — guidance for managing the raw PDF archive without breaking GitHub file-size constraints.
-- **scripts/** — a small rebuild script so the exports can be regenerated from the spreadsheet.
-
 ## Why this repo exists
 
 The central argument of the paper is that recommender systems did **not** evolve through simple replacement cycles. Instead, they evolved through a sequence of **representational translations**:
