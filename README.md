@@ -123,27 +123,6 @@ Use:
 - `data/bibliography.bib`
 - `data/pdf_manifest.csv`
 
-### For extending the project
-Use:
-- `notes/progress_info_retrieval_project_papers_notes.md`
-- `notes/recommender_systems_future_prediction.md`
-- `scripts/build_exports.py`
-
-## Repository structure
-
-```text
-llm-kg-recsys-companion/
-├── README.md
-├── NOTICE.md
-├── data/
-├── docs/
-├── notes/
-├── paper/
-├── papers/
-├── scripts/
-└── source_materials/
-```
-
 ## Notes on raw PDFs
 
 The attached archive `RecSys_Papers 2.zip` is larger than the standard single-file size GitHub comfortably handles. To keep this repo GitHub-ready, the archive is **not** committed into the repository itself.
