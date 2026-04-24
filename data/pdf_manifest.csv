@@ -1,0 +1,137 @@
+year,title,doi,pdf_file_hint,notes
+2007,A multiagent knowledge-based recommender approach with truth maintenance.,10.1145/1297231.1297273,1297231.1297273.pdf,Matches ACM-style filename convention
+2009,Personalized query relaxations and repairs in knowledge-based recommendation.,10.1145/1639714.1639801,1639714.1639801.pdf,Matches ACM-style filename convention
+2009,Knowledge infusion into content-based recommender systems.,10.1145/1639714.1639773,1639714.1639773.pdf,Matches ACM-style filename convention
+2012,Sparse linear methods with side information for top-n recommendations.,10.1145/2365952.2365983,2365952.2365983.pdf,Matches ACM-style filename convention
+2013,Top-N recommendations from implicit feedback leveraging linked open data.,10.1145/2507157.2507172,2507157.2507172.pdf,Matches ACM-style filename convention
+2016,Personalized Recommendations using Knowledge Graphs: A Probabilistic Logic Programming Approach.,10.1145/2959100.2959131,2959100.2959131.pdf,Matches ACM-style filename convention
+2016,Meta-Prod2Vec: Product Embeddings Using Side-Information for Recommendation.,10.1145/2959100.2959160,2959100.2959160.pdf,Matches ACM-style filename convention
+2016,ExpLOD: A Framework for Explaining Recommendations based on the Linked Open Data Cloud.,10.1145/2959100.2959173,2959100.2959173.pdf,Matches ACM-style filename convention
+2017,entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation.,10.1145/3109859.3109889,3109859.3109889.pdf,Matches ACM-style filename convention
+2018,Recurrent knowledge graph embedding for effective recommendation.,10.1145/3240323.3240361,3240323.3240361.pdf,Matches ACM-style filename convention
+2019,Explaining and exploring job recommendations: a user-driven approach for interacting with knowledge-based job recommender systems.,10.1145/3298689.3347001,3298689.3347001.pdf,Matches ACM-style filename convention
+2019,Variational low rank multinomials for collaborative filtering with side-information.,10.1145/3298689.3347036,3298689.3347036.pdf,Matches ACM-style filename convention
+2020,Closed-Form Models for Collaborative Filtering with Side-Information.,10.1145/3383313.3418480,3383313.3418480.pdf,Matches ACM-style filename convention
+2021,An Ontology-based Knowledgebase for User Profile and Garment Features in Apparel Recommender Systems.,10.1145/3460231.3473901,3460231.3473901.pdf,Matches ACM-style filename convention
+2021,Sparse Feature Factorization for Recommender Systems with Knowledge Graphs.,10.1145/3460231.3474243,3460231.3474243.pdf,Matches ACM-style filename convention
+2022,Knowledge-aware Recommendations Based on Neuro-Symbolic Graph Embeddings and First-Order Logical Rules.,10.1145/3523227.3551484,3523227.3551484.pdf,Matches ACM-style filename convention
+2022,Hands on Explainable Recommender Systems with Knowledge Graphs.,10.1145/3523227.3547374,3523227.3547374.pdf,Matches ACM-style filename convention
+2022,TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural Recommender Systems.,10.1145/3523227.3546760,3523227.3546760.pdf,Matches ACM-style filename convention
+2023,Knowledge-Aware Recommender Systems based on Multi-Modal Information Sources.,10.1145/3604915.3608866,3604915.3608866.pdf,Matches ACM-style filename convention
+2023,Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation.,10.1145/3604915.3608787,3604915.3608787.pdf,Matches ACM-style filename convention
+2023,LLM Based Generation of Item-Description for Recommendation System.,10.1145/3604915.3610647,3604915.3610647.pdf,Matches ACM-style filename convention
+2023,Beyond Labels: Leveraging Deep Learning and LLMs for Content Metadata.,10.1145/3604915.3608883,3604915.3608883.pdf,Matches ACM-style filename convention
+2023,Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM.,10.1145/3604915.3608874,3604915.3608874.pdf,Matches ACM-style filename convention
+2023,Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences.,10.1145/3604915.3608845,3604915.3608845.pdf,Matches ACM-style filename convention
+2023,TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation.,10.1145/3604915.3608857,3604915.3608857.pdf,Matches ACM-style filename convention
+2023,Leveraging Large Language Models for Sequential Recommendation.,10.1145/3604915.3610639,3604915.3610639.pdf,Matches ACM-style filename convention
+2023,Tutorial on Large Language Models for Recommendation.,10.1145/3604915.3609494,3604915.3609494.pdf,Matches ACM-style filename convention
+2023,Large Language Model Augmented Narrative Driven Recommendations.,10.1145/3604915.3608829,3604915.3608829.pdf,Matches ACM-style filename convention
+2023,Retrieval-augmented Recommender System: Enhancing Recommender Systems with Large Language Models.,10.1145/3604915.3608889,3604915.3608889.pdf,Matches ACM-style filename convention
+2023,User-Centric Conversational Recommendation: Adapting the Need of User with Large Language Models.,10.1145/3604915.3608885,3604915.3608885.pdf,Matches ACM-style filename convention
+2023,Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation.,10.1145/3604915.3608860,3604915.3608860.pdf,Matches ACM-style filename convention
+2023,Distribution-based Learnable Filters with Side Information for Sequential Recommendation.,10.1145/3604915.3608782,3604915.3608782.pdf,Matches ACM-style filename convention
+2024,Context-based Entity Recommendation for Knowledge Workers: Establishing a Benchmark on Real-life Data.,10.1145/3640457.3688068,3640457.3688068.pdf,Matches ACM-style filename convention
+2024,Explainable and Faithful Educational Recommendations through Causal Language Modelling via Knowledge Graphs.,10.1145/3640457.3688022,3640457.3688022.pdf,Matches ACM-style filename convention
+2024,KGGLM: A Generative Language Model for Generalizable Knowledge Graph Representation Learning in Recommendation.,10.1145/3640457.3691703,3640457.3691703.pdf,Matches ACM-style filename convention
+2024,MMGCL: Meta Knowledge-Enhanced Multi-view Graph Contrastive Learning for Recommendations.,10.1145/3640457.3688127,3640457.3688127.pdf,Matches ACM-style filename convention
+2024,Playlist Search Reinvented: LLMs Behind the Curtain.,10.1145/3640457.3688047,3640457.3688047.pdf,Matches ACM-style filename convention
+2024,Bayesian Optimization with LLM-Based Acquisition Functions for Natural Language Preference Elicitation.,10.1145/3640457.3688142,3640457.3688142.pdf,Matches ACM-style filename convention
+2024,&quot;More to Read&quot; at the Los Angeles Times: Solving a Cold Start Problem with LLMs to Improve Story Discovery.,10.1145/3640457.3688031,3640457.3688031.pdf,Matches ACM-style filename convention
+2024,Evaluation and simplification of text difficulty using LLMs in the context of recommending texts in French to facilitate language learning.,10.1145/3640457.3688181,3640457.3688181.pdf,Matches ACM-style filename convention
+2024,Enhancing Cross-Domain Recommender Systems with LLMs: Evaluating Bias and Beyond-Accuracy Measures.,10.1145/3640457.3688027,3640457.3688027.pdf,Matches ACM-style filename convention
+2024,CALRec: Contrastive Alignment of Generative LLMs for Sequential Recommendation.,10.1145/3640457.3688121,3640457.3688121.pdf,Matches ACM-style filename convention
+2024,Reproducibility of LLM-based Recommender Systems: the Case Study of P5 Paradigm.,10.1145/3640457.3688072,3640457.3688072.pdf,Matches ACM-style filename convention
+2024,GenUI(ne) CRS: UI Elements and Retrieval-Augmented Generation in Conversational Recommender Systems with LLMs.,10.1145/3640457.3691697,3640457.3691697.pdf,Matches ACM-style filename convention
+2024,A Hybrid Multi-Agent Conversational Recommender System with LLM and Search Engine in E-commerce.,10.1145/3640457.3688061,3640457.3688061.pdf,Matches ACM-style filename convention
+2024,Leveraging LLM generated labels to reduce bad matches in job recommendations.,10.1145/3640457.3688043,3640457.3688043.pdf,Matches ACM-style filename convention
+2024,Towards Symbiotic Recommendations: Leveraging LLMs for Conversational Recommendation Systems.,10.1145/3640457.3688023,3640457.3688023.pdf,Matches ACM-style filename convention
+2024,Improving Data Efficiency for Recommenders and LLMs.,10.1145/3640457.3688052,3640457.3688052.pdf,Matches ACM-style filename convention
+2024,Fairness Matters: A look at LLM-generated group recommendations.,10.1145/3640457.3688182,3640457.3688182.pdf,Matches ACM-style filename convention
+2024,LLMs for User Interest Exploration in Large-scale Recommendation Systems.,10.1145/3640457.3688161,3640457.3688161.pdf,Matches ACM-style filename convention
+2024,Distillation Matters: Empowering Sequential Recommenders to Match the Performance of Large Language Models.,10.1145/3640457.3688118,3640457.3688118.pdf,Matches ACM-style filename convention
+2024,EARL: Workshop on Evaluating and Applying Recommendation Systems with Large Language Models.,10.1145/3640457.3687110,3640457.3687110.pdf,Matches ACM-style filename convention
+2024,TLRec: A Transfer Learning Framework to Enhance Large Language Models for Sequential Recommendation Tasks.,10.1145/3640457.3691710,3640457.3691710.pdf,Matches ACM-style filename convention
+2024,Recommending Healthy and Sustainable Meals exploiting Food Retrieval and Large Language Models.,10.1145/3640457.3688193,3640457.3688193.pdf,Matches ACM-style filename convention
+2024,Instructing and Prompting Large Language Models for Explainable Cross-domain Recommendations.,10.1145/3640457.3688137,3640457.3688137.pdf,Matches ACM-style filename convention
+2024,Analyzing User Preferences and Quality Improvement on Bing&apos;s WebPage Recommendation Experience with Large Language Models.,10.1145/3640457.3688062,3640457.3688062.pdf,Matches ACM-style filename convention
+2024,A Tool for Explainable Pension Fund Recommendations using Large Language Models.,10.1145/3640457.3691699,3640457.3691699.pdf,Matches ACM-style filename convention
+2024,ReLand: Integrating Large Language Models&apos; Insights into Industrial Recommenders via a Controllable Reasoning Pool.,10.1145/3640457.3688131,3640457.3688131.pdf,Matches ACM-style filename convention
+2024,LARR: Large Language Model Aided Real-time Scene Recommendation with Semantic Understanding.,10.1145/3640457.3688135,3640457.3688135.pdf,Matches ACM-style filename convention
+2024,SeCor: Aligning Semantic and Collaborative Representations by Large Language Models for Next-Point-of-Interest Recommendations.,10.1145/3640457.3688124,3640457.3688124.pdf,Matches ACM-style filename convention
+2024,Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models.,10.1145/3640457.3688104,3640457.3688104.pdf,Matches ACM-style filename convention
+2024,Unleashing the Retrieval Potential of Large Language Models in Conversational Recommender Systems.,10.1145/3640457.3688146,3640457.3688146.pdf,Matches ACM-style filename convention
+2024,Large Language Models as Evaluators for Recommendation Explanations.,10.1145/3640457.3688075,3640457.3688075.pdf,Matches ACM-style filename convention
+2024,EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations.,10.1145/3640457.3688185,3640457.3688185.pdf,Matches ACM-style filename convention
+2025,How Powerful are LLMs to Support Multimodal Recommendation? A Reproducibility Study of LLMRec.,10.1145/3705328.3748154,3705328.3748154.pdf,Matches ACM-style filename convention
+2025,Heterogeneous User Modeling for LLM-based Recommendation.,10.1145/3705328.3748085,3705328.3748085.pdf,Matches ACM-style filename convention
+2025,"Not Just What, But When: Integrating Irregular Intervals to LLM for Sequential Recommendation.",10.1145/3705328.3748013,3705328.3748013.pdf,Matches ACM-style filename convention
+2025,Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge.,10.1145/3705328.3759305,3705328.3759305.pdf,Matches ACM-style filename convention
+2025,Narrative-Driven Itinerary Recommendation: LLM Integration for Immersive Urban Walking.,10.1145/3705328.3748751,3705328.3748751.pdf,Matches ACM-style filename convention
+2025,VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings.,10.1145/3705328.3748064,3705328.3748064.pdf,Matches ACM-style filename convention
+2025,A Media Content Recommendation Method for Playlist Curators using LLM-Based Query Expansion.,10.1145/3705328.3748129,3705328.3748129.pdf,Matches ACM-style filename convention
+2025,A Tutorial on Agentic LLM for Recommender Systems.,10.1145/3705328.3748007,3705328.3748007.pdf,Matches ACM-style filename convention
+2025,Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems.,10.1145/3705328.3748167,3705328.3748167.pdf,Matches ACM-style filename convention
+2025,Never Miss an Episode: How LLMs are Powering Serial Content Discovery on YouTube.,10.1145/3705328.3748104,3705328.3748104.pdf,Matches ACM-style filename convention
+2025,Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation.,10.1145/3705328.3748159,3705328.3748159.pdf,Matches ACM-style filename convention
+2025,LLM-RecG: A Semantic Bias-Aware Framework for Zero-Shot Sequential Recommendation.,10.1145/3705328.3748077,3705328.3748077.pdf,Matches ACM-style filename convention
+2025,LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations.,10.1145/3705328.3748103,3705328.3748103.pdf,Matches ACM-style filename convention
+2025,Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates.,10.1145/3705328.3748105,3705328.3748105.pdf,Matches ACM-style filename convention
+2025,LADDER: LLM-Annotated Data for Dogfooded Evaluation of Rankings.,10.1145/3705328.3748094,3705328.3748094.pdf,Matches ACM-style filename convention
+2025,SlateLLM: Distilling LLM Semantics into Session-Aware Slate Recommendation without Inference Overhead.,10.1145/3705328.3759306,3705328.3759306.pdf,Matches ACM-style filename convention
+2025,Biases in LLM-Generated Musical Taste Profiles for Recommendation.,10.1145/3705328.3748030,3705328.3748030.pdf,Matches ACM-style filename convention
+2025,Beyond Visit Trajectories: Enhancing POI Recommendation via LLM-Augmented Text and Image Representations.,10.1145/3705328.3748014,3705328.3748014.pdf,Matches ACM-style filename convention
+2025,Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective.,10.1145/3705328.3748158,3705328.3748158.pdf,Matches ACM-style filename convention
+2025,Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations.,10.1145/3705328.3748015,3705328.3748015.pdf,Matches ACM-style filename convention
+2025,LANCE: Exploration and Reflection for LLM-based Textual Attacks on News Recommender Systems.,10.1145/3705328.3748081,3705328.3748081.pdf,Matches ACM-style filename convention
+2025,Metadata Generation and Evaluation using LLMs - Case Study on Canonical Titles.,10.1145/3705328.3748100,3705328.3748100.pdf,Matches ACM-style filename convention
+2025,Enhancing Sequential Recommender with Large Language Models for Joint Video and Comment Recommendation.,10.1145/3705328.3748075,3705328.3748075.pdf,Matches ACM-style filename convention
+2025,Large Language Model-based Recommendation System Agents.,10.1145/3705328.3759334,3705328.3759334.pdf,Matches ACM-style filename convention
+2025,Lasso: Large Language Model-based User Simulator for Cross-Domain Recommendation.,10.1145/3705328.3748048,3705328.3748048.pdf,Matches ACM-style filename convention
+2025,Mitigating Popularity Bias in Counterfactual Explanations using Large Language Models.,10.1145/3705328.3759330,3705328.3759330.pdf,Matches ACM-style filename convention
+2025,Emotion Vector-Based Fine-Tuning of Large Language Models for Age-Aware Teenage Book Recommendations.,10.1145/3705328.3748037,3705328.3748037.pdf,Matches ACM-style filename convention
+2025,EARL: The 2nd Workshop on Evaluating and Applying Recommender Systems with Large Language Models.,10.1145/3705328.3747995,3705328.3747995.pdf,Matches ACM-style filename convention
+2025,Minimize Negative Experiences in Video Recommendation Systems with Multimodal Large Language Models.,10.1145/3705328.3748102,3705328.3748102.pdf,Matches ACM-style filename convention
+2025,Describe What You See with Multimodal Large Language Models to Enhance Video Recommendations.,10.1145/3705328.3759303,3705328.3759303.pdf,Matches ACM-style filename convention
+2025,MoRE: A Mixture of Reflectors Framework for Large Language Model-Based Sequential Recommendation.,10.1145/3705328.3748055,3705328.3748055.pdf,Matches ACM-style filename convention
+2025,concept2code: Sequential Recommendation with Large Language Models.,10.1145/3705328.3748003,3705328.3748003.pdf,Matches ACM-style filename convention
+2024,IDGenRec: LLM-RecSys Alignment with Textual ID Learning.,10.1145/3626772.3657821,3626772.3657821.pdf,Matches ACM-style filename convention
+2011,Matrix co-factorization for recommendation with rich side information and implicit feedback.,10.1145/2039320.2039330,2039320.2039330.pdf,Matches ACM-style filename convention
+2015,Generic knowledge-based Analysis of Social Media for Recommendations.,,,No filename hint derived from DOI
+2017,Explainable Entity-based Recommendations with Knowledge Graphs.,,,No filename hint derived from DOI
+2017,Auto-Encoding User Ratings via Knowledge Graphs in Recommendation Scenarios.,10.1145/3125486.3125496,3125486.3125496.pdf,Matches ACM-style filename convention
+2018,Knowledge Graph-based Weighting Strategies for a Scholarly Paper Recommendation Scenario.,,,No filename hint derived from DOI
+2018,Computing Recommendations via a Knowledge Graph-aware Autoencoder.,,,No filename hint derived from DOI
+2018,A Collective Variational Autoencoder for Top-N Recommendation with Side Information.,10.1145/3270323.3270326,3270323.3270326.pdf,Matches ACM-style filename convention
+2019,Multi-Criteria Knowledge-Based Recommender System for Decision Support in Complex Business Processes.,,,No filename hint derived from DOI
+2021,Job Posting-Enriched Knowledge Graph for Skills-based Matching.,,,No filename hint derived from DOI
+2021,Knowledge-Based Recommendations for Climbers (Short paper).,,,No filename hint derived from DOI
+2021,Evaluating Explainable Interfaces for a Knowledge Graph-Based Recommender System.,,,No filename hint derived from DOI
+2021,Case Study on the Development of a Recommender for Apple Disease Diagnosis with a Knowledge-based Bayesian Network (Long paper).,,,No filename hint derived from DOI
+2021,Predicting Your Next Trip: A Knowledge Graph-Based Multi-task Learning Approach for Travel Destination Recommendation.,,,No filename hint derived from DOI
+2021,How Can I Help You? Knowledge Graphs for Explainable Recommendation (Abstract).,,,No filename hint derived from DOI
+2021,Hotel2vec: Learning Hotel Embeddings from User Click Sessions with Side Information.,,,No filename hint derived from DOI
+2022,Combining Unstructured Content and Knowledge Graphs into Recommendation Datasets.,,,No filename hint derived from DOI
+2023,NeMig - A Bilingual News Collection and Knowledge Graph about Migration.,,,No filename hint derived from DOI
+2023,GInRec: A Gated Architecture for Inductive Recommendation using Knowledge Graphs.,,,No filename hint derived from DOI
+2023,Knowledge Graph Datasets for Recommendation.,,,No filename hint derived from DOI
+2023,MeKB-Rec: Personal Knowledge Graph Learning for Cross-Domain Recommendation.,,,No filename hint derived from DOI
+2023,Potentials of Combining Local Knowledge and LLMs for Recommender Systems.,,,No filename hint derived from DOI
+2023,Large Language Models as Batteries-Included Zero-Shot ESCO Skills Matchers.,,,No filename hint derived from DOI
+2023,Leveraging Large Language Models for Recommendation and Explanation.,,,No filename hint derived from DOI
+2024,Using Semantic-based Adaptive Relevance Prediction to Enhance Entity Recommendation for Personal Knowledge Assistance.,,,No filename hint derived from DOI
+2024,The Effect of Semantic Knowledge Graph Richness on Embedding Based Recommender Systems.,,,No filename hint derived from DOI
+2024,Enriching Clinical Sample Analysis with Biological Knowledge Graphs: A Preliminary Study.,,,No filename hint derived from DOI
+2024,A Dynamic Jobs-Skills Knowledge Graph.,,,No filename hint derived from DOI
+2024,RAH! RecSys-Assistant-Human: A Human-Centered Recommendation Framework With LLM Agents.,10.1109/TCSS.2024.3404039,,No filename hint derived from DOI
+2024,Negativity Sells? Using an LLM to Affectively Reframe News Articles in a Recommender System.,,,No filename hint derived from DOI
+2024,Can We Integrate Items Into Models? Knowledge Editing To Align LLMs With Product Catalogs.,,,No filename hint derived from DOI
+2024,Keynote: Healthy and Sustainable Food Recommendations Exploiting Natural Language Processing and Large Language Models.,,,No filename hint derived from DOI
+2024,Prompting Large Language Models for Tailored Exercise Recommendations in Office Spaces.,,,No filename hint derived from DOI
+2024,Conversational Recommender Systems based on Extracting Implicit Preferences with Large Language Models.,,,No filename hint derived from DOI
+2025,"LLM-based Generation of Personalized, Context-aware City Tourist Itineraries: A User Study with GPT Trip Planner.",,,No filename hint derived from DOI
+2026,LRSA: LLM-RecSys alignment for time-specific next POI recommendation.,10.1016/J.IPM.2025.104434,,No filename hint derived from DOI
+2025,USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model.,10.1145/3705328.3748089,3705328.3748089.pdf,Matches ACM-style filename convention
+2015,Automatic Selection of Linked Open Data Features in Graph-based Recommender Systems.,,,No filename hint derived from DOI
+2014,Linked Open Data-enabled Strategies for Top-N Recommendations.,,,No filename hint derived from DOI
+2025,A Dual-Key Attention Framework for Sequential Recommendation with Side Information.,10.1145/3705328.3759326,3705328.3759326.pdf,Matches ACM-style filename convention
