@@ -107,32 +107,6 @@ The attached future-prediction notes extend the paper into a concrete engineerin
 
 See `docs/future_agenda_2026_2030.md` for a compact synthesis.
 
-## Suggested use
-
-### For reading the paper
-Start with:
-- `paper/LLM_KG_companion_paper.pdf`
-- `docs/research_questions.md`
-- `docs/timeline.md`
-- `docs/recurring_patterns.md`
-
-### For literature review work
-Use:
-- `data/papers_master.csv`
-- `data/llm_kg_focus_subset.csv`
-- `data/bibliography.bib`
-- `data/pdf_manifest.csv`
-
-## Notes on raw PDFs
-
-The attached archive `RecSys_Papers 2.zip` is larger than the standard single-file size GitHub comfortably handles. To keep this repo GitHub-ready, the archive is **not** committed into the repository itself.
-
-Instead, this repo includes:
-- a bibliography export,
-- a PDF filename manifest,
-- the original spreadsheet,
-- and guidance in `papers/README.md` for restoring the raw paper archive locally or via Git LFS / external storage.
-
 ## Citation
 
-If you use this repository, cite the paper and, when relevant, the curated literature spreadsheet included under `source_materials/`.
+TBA
