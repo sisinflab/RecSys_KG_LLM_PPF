@@ -43,7 +43,7 @@ This repository accompanies the article with the data behind it: the machine-rea
 │   ├── future_agenda_2026_2030.md # engineering agenda for 2026-2030
 │   └── corpus_summary.md          # corpus statistics
 └── scripts/
-    └── build_exports.py           # regenerates the CSV/BibTeX exports from the source spreadsheet
+    └── build_exports.py           # reference for generating the CSV/BibTeX exports (currently non-runnable: BibTeX writer has malformed string literals)
 ```
 
 ## Quick start
@@ -80,7 +80,7 @@ To use the bibliography in LaTeX, add `data/bibliography.bib` to your project an
 | `found_by_keywords` | Search keyword group(s) through which the paper was found |
 | `dblp_url` | DBLP record URL |
 | `scholar_citations`, `scopus_citations`, `semantic_citations` | Citation counts from Google Scholar, Scopus and Semantic Scholar at collection time (may be empty) |
-| `source_id` | DBLP record key, also used as the BibTeX key in `bibliography.bib` |
+| `source_id` | DBLP record key; the BibTeX key in `bibliography.bib` is this value prefixed with `DBLP:` |
 
 Other files: `keyword_group_counts.csv` (`keyword_group`, `paper_count`), `yearly_counts.csv` (`year`, `paper_count`), `pdf_manifest.csv` (`year`, `title`, `doi`, `pdf_file_hint`, `notes`).
 
@@ -191,7 +191,7 @@ See `docs/future_agenda_2026_2030.md` for a compact synthesis.
 
 - The files in `data/` are the released snapshot of the corpus. Citation counts reflect the time of collection and will differ from current values.
 - The full-text PDFs of the surveyed papers are **not** redistributed here; use `pdf_manifest.csv` and the DOIs to retrieve them from their publishers.
-- `scripts/build_exports.py` documents how the CSV and BibTeX exports were generated from the source spreadsheet (`source_materials/History_20_RecSys_Combined.xlsx`, not included in this repository). It requires `python-docx` and `openpyxl`.
+- `scripts/build_exports.py` documents how the CSV and BibTeX exports were generated from the source spreadsheet (`source_materials/History_20_RecSys_Combined.xlsx`, not included in this repository). It is currently non-runnable because its BibTeX writer contains malformed string literals. It requires `python-docx` and `openpyxl`.
 
 ## Citation
 
